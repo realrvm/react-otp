@@ -1,0 +1,19 @@
+.otp {
+  &_container {
+    max-width: 304px;
+    display: flex;
+    gap: 24px;
+  }
+
+  &_input {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    border: none;
+    border-bottom: 2px solid #e2e2e2;
+    width: 100%;
+    padding: 0;
+    text-align: center;
+    outline: none;
+  }
+}
